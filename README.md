@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @debug-ashena
-- 👀 I’m interested in IoT and Blockchain principle for data security
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in IoT and Blockchain principle for Information security
 - 💞️ I’m looking to collaborate on Cybersecurity and whole IoT and Blockchain related projects
 - 📫 How to reach me debug.ashena@gmail.com and www.ashenacademy.ir
 
